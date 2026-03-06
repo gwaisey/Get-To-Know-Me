@@ -21,7 +21,7 @@ I'm a Computer Science student at Bina Nusantara University, passionate about cr
 
 ### 📫 Connect with Me
 * **LinkedIn:** [in/grace-gozali-](https://www.linkedin.com/in/grace-gozali-)
-* **Outlook:** [Email](grace.gozali@binus.ac.id)
+* **Outlook:** [grace.gozali@binus.ac.id](grace.gozali@binus.ac.id)
 
 ---
 *“Designing the future, one line of code at a time.”*
