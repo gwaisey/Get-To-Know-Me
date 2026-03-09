@@ -39,8 +39,5 @@ I'm a Computer Science student at Bina Nusantara University, passionate about cr
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=gwaisey&theme=dark&hide_border=true" width="100%" />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gwaisey&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 *“Designing the future, one line of code at a time.”*
